@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b24cbb5-bbb8-47bd-9638-7aef5670bb40": {
+      "ProjectGuid": "0b24cbb5-bbb8-47bd-9638-7aef5670bb40",
+      "DisplayName": "JumpListManagerExample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

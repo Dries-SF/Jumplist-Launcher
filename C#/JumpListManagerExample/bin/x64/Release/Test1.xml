@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+ <Config version="1.0.1.1" >
+   <Softwares>
+    <Settings
+      Category="Test"
+      Name="anyName"
+      Path="C:\Program Files (x86)\Acronis\TrueImageHome\TrueImage.exe"
+    />
+    <Settings
+      Category="Softwares"
+      Name="IVONA MiniReader"
+      Path="D:\Program Files (x86)\IVONA\IVONA MiniReader\IVONA MiniReader.exe"
+    />
+    <Settings
+      Category="Utilitários"
+      Name="Acronis True Image"
+      Path="C:\Program Files (x86)\Acronis\TrueImageHome\TrueImage.exe"
+    />
+    <Settings
+      Category="Utilitários"
+      Name="Revo Uninstaller Pro"
+      Path="D:\Program Files\VS Revo Group\Revo Uninstaller Pro\RevoUninPro.exe"
+    />
+    <Settings
+      Category="Utilitários"
+      Name="CCleaner"
+      Path="D:\Program Files\CCleaner\CCleaner64.exe"
+    />
+    <Settings
+      Category="Utilitários"
+      Name="Driver Booster"
+      Path="D:\Program Files (x86)\Driver Booster 6\DriverBooster.exe"
+    />
+    <Settings
+      Category="Utilitários"
+      Name="Beyond Compare"
+      Path="D:\Program Files\Beyond Compare\BCompare.exe"
+    />
+    <Settings
+      Category="Utilitários"
+      Name="CPU-Z"
+      Path="D:\Program Files\CPUID\CPU-Z\cpuz.exe"
+    />
+    <Settings
+      Category="Utilitários"
+      Name="Core Temp"
+      Path="D:\Program Files\Core Temp\Core Temp.exe"
+    />
+    <Settings
+      Category="Utilitários"
+      Name="Desfragmentar e Otimizar Unidades"
+      Path="%windir%\system32\dfrgui.exe"
+    />
+    <Settings
+      Category="Utilitários"
+      Name="Crystal DiskMark"
+      Path="D:\Program Files\CrystalDiskMark6\DiskMark64.exe"
+    />
+    <Settings
+      Category="Utilitários"
+      Name="Crystal DiskInfo"
+      Path="D:\Program Files (x86)\CrystalDiskInfo\DiskInfo32.exe"
+    />
+    <Settings
+      Category="Utilitários"
+      Name="NVIDIA Painel de Controle"
+      Path="C:\Program Files\NVIDIA Corporation\Control Panel Client\nvcplui.exe"
+    />
+    <Settings
+      Category="Utilitários"
+      Name="Duplicate Cleaner Pro"
+      Path="D:\Program Files (x86)\Duplicate Cleaner Pro\DuplicateCleaner.exe"
+    />
+    <Settings
+      Category="Programação"
+      Name="Visual Studio 2010"
+      Path="D:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\devenv.exe"
+    />
+    <Settings
+      Category="Programação"
+      Name="Lista de Softwares - Jumplist"
+      Path="D:\_Users\Lazie\Downloads\Jump List\Release\ListaDeSoftwares.xml"
+    />
+   </Softwares>
+ </Config>

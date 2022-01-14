@@ -1,0 +1,40 @@
+D:\_Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Release\JumpListHelpers.dll
+D:\_Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Release\JumpListHelpers.pdb
+D:\_Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Release\Microsoft.WindowsAPICodePack.dll
+D:\_Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+D:\_Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Release\Microsoft.WindowsAPICodePack.pdb
+D:\_Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\_Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\obj\Release\JumpListHelpers.csprojResolveAssemblyReference.cache
+D:\_Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\obj\Release\JumpListHelpers.dll
+D:\_Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\obj\Release\JumpListHelpers.pdb
+D:\Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Release\JumpListHelpers.dll
+D:\Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Release\JumpListHelpers.pdb
+D:\Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Release\Microsoft.WindowsAPICodePack.dll
+D:\Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Release\Microsoft.WindowsAPICodePack.pdb
+D:\Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\obj\Release\JumpListHelpers.csprojResolveAssemblyReference.cache
+D:\Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\obj\Release\JumpListHelpers.dll
+D:\Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\obj\Release\JumpListHelpers.pdb
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Release\JumpListHelpers.dll
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Release\JumpListHelpers.pdb
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Release\Microsoft.WindowsAPICodePack.pdb
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\Jump List with Windows Forms VS2010\C#\JumpListHelpers\obj\Release\JumpListHelpers.csprojAssemblyReference.cache
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\Jump List with Windows Forms VS2010\C#\JumpListHelpers\obj\Release\JumpListHelpers.csproj.CoreCompileInputs.cache
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\Jump List with Windows Forms VS2010\C#\JumpListHelpers\obj\Release\JumpListHelpers.csproj.CopyComplete
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\Jump List with Windows Forms VS2010\C#\JumpListHelpers\obj\Release\JumpListHelpers.dll
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\Jump List with Windows Forms VS2010\C#\JumpListHelpers\obj\Release\JumpListHelpers.pdb
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListHelpers\bin\Release\JumpListHelpers.dll
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListHelpers\bin\Release\JumpListHelpers.pdb
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListHelpers\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListHelpers\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListHelpers\bin\Release\Microsoft.WindowsAPICodePack.pdb
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListHelpers\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListHelpers\obj\Release\JumpListHelpers.csprojAssemblyReference.cache
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListHelpers\obj\Release\JumpListHelpers.csproj.CoreCompileInputs.cache
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListHelpers\obj\Release\JumpListHelpers.csproj.CopyComplete
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListHelpers\obj\Release\JumpListHelpers.dll
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListHelpers\obj\Release\JumpListHelpers.pdb

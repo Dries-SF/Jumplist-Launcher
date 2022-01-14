@@ -1,0 +1,8 @@
+D:\_Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Debug\JumpListHelpers.dll
+D:\_Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Debug\JumpListHelpers.pdb
+D:\_Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\_Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\_Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\_Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\_Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\obj\Debug\JumpListHelpers.dll
+D:\_Users\Lazie\Downloads\Jump List with Windows Forms VS2010\C#\JumpListHelpers\obj\Debug\JumpListHelpers.pdb

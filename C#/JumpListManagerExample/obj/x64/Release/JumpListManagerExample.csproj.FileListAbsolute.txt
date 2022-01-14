@@ -1,0 +1,53 @@
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\bin\x64\Release\JumpLists.exe.config
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\bin\x64\Release\JumpLists.exe
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\bin\x64\Release\JumpLists.pdb
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\bin\x64\Release\JumpListHelpers.dll
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\bin\x64\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\bin\x64\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\bin\x64\Release\JumpListHelpers.pdb
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\bin\x64\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\bin\x64\Release\Microsoft.WindowsAPICodePack.pdb
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpListManagerExample.MainForm.resources
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpListManagerExample.Properties.Resources.resources
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpListManagerExample.csproj.GenerateResource.cache
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpListManagerExample.csproj.CoreCompileInputs.cache
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpListManagerExample.csproj.CopyComplete
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpLists.exe
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpLists.pdb
+C:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpListManagerExample.csproj.AssemblyReference.cache
+D:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\bin\x64\Release\JumpLists.exe.config
+D:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\bin\x64\Release\JumpLists.exe
+D:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\bin\x64\Release\JumpLists.pdb
+D:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\bin\x64\Release\JumpListHelpers.dll
+D:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\bin\x64\Release\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\bin\x64\Release\Microsoft.WindowsAPICodePack.dll
+D:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\bin\x64\Release\JumpListHelpers.pdb
+D:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\bin\x64\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\bin\x64\Release\Microsoft.WindowsAPICodePack.pdb
+D:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpListManagerExample.csproj.AssemblyReference.cache
+D:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpListManagerExample.csproj.SuggestedBindingRedirects.cache
+D:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpListManagerExample.MainForm.resources
+D:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpListManagerExample.Properties.Resources.resources
+D:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpListManagerExample.csproj.GenerateResource.cache
+D:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpListManagerExample.csproj.CoreCompileInputs.cache
+D:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpListManagerExample.csproj.CopyComplete
+D:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpLists.exe
+D:\Users\lazie\Downloads\Códigos Visual Studio 2019\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpLists.pdb
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListManagerExample\bin\x64\Release\JumpLists.exe.config
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListManagerExample\bin\x64\Release\JumpLists.exe
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListManagerExample\bin\x64\Release\JumpLists.pdb
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListManagerExample\bin\x64\Release\JumpListHelpers.dll
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListManagerExample\bin\x64\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListManagerExample\bin\x64\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListManagerExample\bin\x64\Release\JumpListHelpers.pdb
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListManagerExample\bin\x64\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListManagerExample\bin\x64\Release\Microsoft.WindowsAPICodePack.pdb
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpListManagerExample.csproj.AssemblyReference.cache
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpListManagerExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpListManagerExample.MainForm.resources
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpListManagerExample.Properties.Resources.resources
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpListManagerExample.csproj.GenerateResource.cache
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpListManagerExample.csproj.CoreCompileInputs.cache
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpListManagerExample.csproj.CopyComplete
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpLists.exe
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListManagerExample\obj\x64\Release\JumpLists.pdb

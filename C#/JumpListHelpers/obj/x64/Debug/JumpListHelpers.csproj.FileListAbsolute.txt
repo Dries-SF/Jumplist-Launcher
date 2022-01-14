@@ -1,0 +1,11 @@
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListHelpers\bin\x64\Debug\JumpListHelpers.dll
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListHelpers\bin\x64\Debug\JumpListHelpers.pdb
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListHelpers\bin\x64\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListHelpers\bin\x64\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListHelpers\bin\x64\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListHelpers\bin\x64\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListHelpers\obj\x64\Debug\JumpListHelpers.csproj.AssemblyReference.cache
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListHelpers\obj\x64\Debug\JumpListHelpers.csproj.CoreCompileInputs.cache
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListHelpers\obj\x64\Debug\JumpListHelpers.csproj.CopyComplete
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListHelpers\obj\x64\Debug\JumpListHelpers.dll
+C:\Users\lazie\Desktop\JumpLists\C#\JumpListHelpers\obj\x64\Debug\JumpListHelpers.pdb
